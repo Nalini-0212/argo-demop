@@ -30,4 +30,4 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx:invalid
+        image: nginx:1.28
